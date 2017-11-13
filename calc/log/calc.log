@@ -1,0 +1,12 @@
+# Logfile created on 2017-08-09 01:15:55 -0300 by logger.rb/56815
+E, [2017-08-09T01:16:03.368201 #2520] ERROR -- : Cálculo realizado: 9.0 + 20.0 = 29.0
+I, [2017-08-09T01:16:09.258920 #2520]  INFO -- : Usuário encerrou o programa.
+E, [2017-08-09T01:16:30.807693 #15516] ERROR -- : Cálculo realizado: 39.0 / 3.9 = 10.0
+E, [2017-08-09T01:16:38.018515 #15516] ERROR -- : Usuário não digitou uma operação disponível: l
+E, [2017-08-09T01:16:40.282643 #15516] ERROR -- : Usuário não digitou uma operação disponível: k
+E, [2017-08-09T01:16:43.753642 #15516] ERROR -- : Usuário tentou realizar uma divisão por zero: 10.0 / 0.0 > Divisão por zero é indefinida
+I, [2017-08-09T01:16:45.584552 #15516]  INFO -- : Usuário encerrou o programa.
+E, [2017-08-09T01:17:25.453117 #10224] ERROR -- : Cálculo realizado: 88.0 * 3.0 = 264.0
+I, [2017-08-09T01:17:28.646471 #10224]  INFO -- : Usuário encerrou o programa.
+E, [2017-08-12T09:40:23.967189 #15052] ERROR -- : Cálculo realizado: 9.0 + 3.0 = 12.0
+I, [2017-08-12T09:40:25.954999 #15052]  INFO -- : Usuário encerrou o programa.

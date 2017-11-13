@@ -1,0 +1,11 @@
+# Logfile created on 2017-08-28 23:24:49 -0300 by logger.rb/56815
+I, [28-08-2017 23:25:27#3800]  INFO -- : Acceso de usuário registrado: jhonatancmorais@gmail.com
+I, [28-08-2017 23:25:29#3800]  INFO -- : IP 10.1.10.4 [vlan_dev] concedido com êxito ao usuário jhonatancmorais@gmail.com.
+I, [28-08-2017 23:26:26#9660]  INFO -- : Acceso de usuário registrado: jaspion@xyz.com
+I, [28-08-2017 23:26:28#9660]  INFO -- : IP 10.1.10.9 [vlan_dev] concedido com êxito ao usuário jaspion@xyz.com.
+I, [28-08-2017 23:27:36#1428]  INFO -- : Acceso de usuário registrado: goku@genkidama.jp
+I, [28-08-2017 23:27:37#1428]  INFO -- : IP 10.1.10.5 [vlan_dev] concedido com êxito ao usuário goku@genkidama.jp.
+I, [28-08-2017 23:29:06#12244]  INFO -- : Acceso de usuário registrado: trunks@buster.net
+E, [28-08-2017 23:29:08#12244] ERROR -- : Falha ao obter endereço IP. Não há IP's disponíveis para esta VLAN: vlan_dev. Usuário: trunks@buster.net
+I, [28-08-2017 23:30:30#8256]  INFO -- : Acceso de usuário registrado: tux@tux.com
+I, [28-08-2017 23:30:31#8256]  INFO -- : IP 10.1.10.5 [vlan_dev] concedido com êxito ao usuário tux@tux.com

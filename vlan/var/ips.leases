@@ -1,0 +1,8 @@
+vlan_dev:10.1.10.3:busy
+vlan_dev:10.1.10.4:busy
+vlan_dev:10.1.10.5:busy
+vlan_dev:10.1.10.9:free
+vlan_dev:10.1.10.20:free
+vlan_dev:10.1.10.22:busy
+vlan_dev:10.1.10.57:busy
+vlan_dev:10.1.10.59:free
